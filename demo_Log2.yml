@@ -1,3 +1,3 @@
 server:
-    port: ${PORT:8988}
+    port: ${PORT:8987}
 message: Consumer configuration server is alive!---aaaaaaaaa
